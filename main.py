@@ -9,3 +9,4 @@ for i in range(d):
     s = input('Che fatto vuoi mettere')
     ite.append(s)
 print(random.choice(ite))
+# Wow
